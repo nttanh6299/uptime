@@ -4,19 +4,19 @@
     "url": "https://www.benjagg.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.benjagg.dev.ico",
     "slug": "benjagg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 645,
-    "timeWeek": 631,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "status": "up",
+    "uptime": "93.30%",
+    "uptimeDay": "84.20%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "93.30%",
+    "time": 640,
+    "timeDay": 656,
+    "timeWeek": 640,
+    "timeMonth": 640,
+    "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 228
     }
   }
 ]
